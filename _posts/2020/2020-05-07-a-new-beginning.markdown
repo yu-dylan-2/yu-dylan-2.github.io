@@ -6,7 +6,9 @@ excerpt: "My new blog!"
 comments: true
 ---
 Hello everyone! This is where I will be posting
-- updates
-- problems
-- other fun stuff
+
+- Updates
+- Problems
+- Other fun stuff
+
 Have fun reading, and stay safe!
