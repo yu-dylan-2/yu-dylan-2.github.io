@@ -11,7 +11,7 @@ Inline: $a+b>c$.
 
 A quick equation:
 
-$$\\[ a^2 + b^2 = c^2. \\]$$
+\\[ a^2 + b^2 = c^2. \\]
 
 $\textbf{Problem.}$ Prove that $\sqrt{2}$ is irrational.
 
