@@ -3,6 +3,12 @@ layout: "post"
 title: "Testing LaTeX"
 date: "2020-05-07"
 excerpt: "Just a quick test to make sure LaTeX works."
+output:
+  pdf_document:
+    latex_engine: xelatex
+    includes:
+      in_header:
+        - amol.sty
 comments: true
 ---
 I read [this blog post](http://flennerhag.com/2017-01-14-latex/) and here's what I was able to do!
