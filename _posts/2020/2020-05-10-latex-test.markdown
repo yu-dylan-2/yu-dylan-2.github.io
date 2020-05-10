@@ -18,7 +18,9 @@ Inline: $a+b>c$.
 A quick equation:
 $$a^2 + b^2 = c^2.$$
 
-$\textbf{Problem.}$ Prove that $\sqrt{2}$ is irrational.
+\begin{problem}
+  Prove that $\sqrt{2}$ is irrational.
+\end{problem}
 $\textbf{Proof.}$ Assume that $\sqrt{2}$ is a rational number in the form $\frac{a}{b}$ when written in lowest terms. Then
 $$\sqrt{2} = \frac{a}{b}.$$
 Squaring both sides, we get
