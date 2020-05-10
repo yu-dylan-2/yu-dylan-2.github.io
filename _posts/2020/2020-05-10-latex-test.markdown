@@ -27,4 +27,4 @@ and dividing by 2, the equation becomes
 \[2c^{2} = b^{2}\]
 By the same logic as before, $b$ must be even. If both $a$ and $b$ are even, they are both divisible by 2. Then, this contradicts our assumption that $\frac{a}{b}$ is in lowest form. Therefore, our original assumption that $\sqrt{2}$ is rational must be false. If $\sqrt{2}$ is not rational, it must be irrational. Therefore, $\sqrt{2}$ is irrational.
 
-(A sneak peak of a future handout.)
+(A sneak peak of a future handout on proofs!)
