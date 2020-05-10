@@ -5,7 +5,7 @@ date: "2020-05-07"
 excerpt: "Just a quick test to make sure LaTeX works."
 comments: true
 ---
-I read [this blog post](http://flennerhag.com/2017-01-14-latex/) and here's what I was able to do!
+I read [this tutorial](http://flennerhag.com/2017-01-14-latex/) and here's what I was able to do!
 
 Inline: $a+b>c$.
 
