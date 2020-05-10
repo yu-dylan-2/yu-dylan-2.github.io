@@ -11,6 +11,6 @@ What about some Extremal Graph Theory?
 <div style="text-align: center"><img src="/images/bad-graph.png" width="400px"></img></div>
 And let's end with a definition from Euclid's Elements (translated, of course):
 <div style="text-align: center"><img src="/images/bad-euclid.png" width="400px"></img></div>
-Surprisingly, still better than my handwriting:
+Did you notice the "I"s look like "5"s and the "T"s look like $\pi$s? Surprisingly, still better than my handwriting:
 <div style="text-align: center"><img src="/images/bad-handwriting.jpg" width="400px"></img></div>
 (Ok, not actually, but close enough.)
