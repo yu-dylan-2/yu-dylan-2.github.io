@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Testing LaTeX"
-date: "2020-05-07"
+date: "2020-05-10"
 excerpt: "Just a quick test to make sure LaTeX works."
 comments: true
 ---
