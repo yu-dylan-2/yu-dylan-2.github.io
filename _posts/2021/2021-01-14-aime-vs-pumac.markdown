@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "AIME vs PUMAC"
-date: "2020-01-14"
+date: "2021-01-14"
 excerpt: "Who will win?"
 comments: true
 ---
